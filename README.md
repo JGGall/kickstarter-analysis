@@ -21,3 +21,4 @@
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+![mypic1](https://github.com/JGGall/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
