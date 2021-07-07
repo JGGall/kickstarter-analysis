@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Louise, who wrote a play and launched a successful Kickstarter campaign for it, has asked for an analysis of how campaigns for other plays fared based on the month in which their Kickstarter campaigns launched, and based on the dollar amount of their Kickstarter campaign goals.
+### Louise, who wrote a play and launched a successful Kickstarter campaign for it, has asked for an analysis of how campaigns for other plays fared based on the month in which their Kickstarter campaigns launched, and based on the dollar amount of their campaign goals.
 
 ## Analysis and Challenges
 
