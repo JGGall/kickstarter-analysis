@@ -23,17 +23,17 @@ I had trouble creating my first pivot table as part of this analysis, but with s
 
 ## Results
 
-###### What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 - First, it is clear that campaigns launched in May were more likely to be successful than in any other month of the year, followed by campaigns launched in June and July. A campaign with a December launch date was less likely to succeed than one launched in any other month. Naturally, I would recommend a May launch for any future campaign.
 - Second, the line chart shows that successful campaigns and failed campaigns follow roughly the same pattern when it comes to the percentage that were successful based on the month of the year in which they were launched. The lines are not mirror images of one another, so the notion that May launches are successful while December launches are unsuccessful needs to be set aside as too simplisitic. More important factors are likely at work when it comes to how successful a theater Kickstarter campaign is likely to be.
 
-###### What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
 - The line chart for outcomes based on the goal of each campaign *does* show patterns that are roughly mirror images of one another. Campaigns with goals of less than $1000 had a high success rate, as did campaigns with goals between $1000 and $4999. The percentage of successful campaigns dropped as the goals increased--with the exception of a very small absolute number of campaigns with high goals between $35,000 and $44,999 that had a high success rate. In general, campaigns with high goals were more likely to fail. It would seem wise for someone intending to conduct a Kickstarter campaign for a theatrical production to keep the goal modest, as the goal is more likely to be achieved that way.
 
-###### What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 - The user of this dataset does not know anything about those who contributed to the Kickstarter campaigns, nor about their motivations. More data could allow us to understand whether a potential contributor was discouraged by a large campaign goal or encouraged by the small size of another goal. A contributor could be motivated by the idea that he or she could make a real difference with a small dollar amount. We also don't know whether corporations or foundations made contributions towards campaigns with very high goals, allowing them to attain a high-dollar goal with a few large contributions while other exciting projects with middle-sized goals failed beacuse they didn't attract similar large contributions.
 
-###### What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
 - The number of successful and failed projects are heavily clustered in the three dollar ranges that are less than $10,000. It would be a good idea to alter the table in a way that explores the success rate of projects with smaller goals by adding ranges of smaller dollar amounts. I would make the ranges in $500 increments up to $3000, and than in $1000 increments up to $10,000. This would give much more information about the projects whose campaigns had small goals. 
 - While the chart that shows the percentage of successful, failed, or canceled campaigns is a useful one, I think our understanding of trends would be enhanced by the addition of a chart based on the absolute number of project campaigns. This would balance the conclusions a user might draw from a chart based on percentage of success or failure, since a large spike or drop can be based on only a handful of campaigns.
 
